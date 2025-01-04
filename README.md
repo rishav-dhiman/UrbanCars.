@@ -6,16 +6,11 @@ The rental cars section presents available options, providing users with details
 
 A sleek and responsive footer rounds out the design, ensuring that the website maintains a polished look across all devices. Whether on mobile, tablet, or desktop, the layout adjusts to provide a smooth user experience, making it perfect for developers who want to create an interactive and professional-looking project.
 
-**Key Features**
+_**Key Features**_
 
 •*Responsive Design:* Ensures a consistent user experience across all devices.
-
 •*Trending Cars Section:* Displays popular car models, keeping users engaged.
-
 •*Rental Cars Section:* Provides detailed information about available cars for rent.
-
 •*Team Section:* Highlights staff members, adding a personal touch to the website.
-
 •*Customer Reviews:* Builds credibility by showcasing real user feedback.
-
-•***Engaging Footer:*** Keeps the design polished and functional on all screen sizes.
+•*Engaging Footer:* Keeps the design polished and functional on all screen sizes.
