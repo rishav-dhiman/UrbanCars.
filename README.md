@@ -8,9 +8,9 @@ A sleek and responsive footer rounds out the design, ensuring that the website m
 
 _**Key Features**_<br>
 
-•*Responsive Design:* Ensures a consistent user experience across all devices.<br>
-•*Trending Cars Section:* Displays popular car models, keeping users engaged.<br>
-•*Rental Cars Section:* Provides detailed information about available cars for rent.<br>
-•*Team Section:* Highlights staff members, adding a personal touch to the website.<br>
-•*Customer Reviews:* Builds credibility by showcasing real user feedback.<br>
-•*Engaging Footer:* Keeps the design polished and functional on all screen sizes.<br>
+•*Responsive Design:*  Ensures a consistent user experience across all devices.<br>
+•*Trending Cars Section:*  Displays popular car models, keeping users engaged.<br>
+•*Rental Cars Section:*  Provides detailed information about available cars for rent.<br>
+•*Team Section:*  Highlights staff members, adding a personal touch to the website.<br>
+•*Customer Reviews:*  Builds credibility by showcasing real user feedback.<br>
+•*Engaging Footer:*  Keeps the design polished and functional on all screen sizes.<br>
