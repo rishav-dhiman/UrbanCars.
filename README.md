@@ -1,5 +1,7 @@
 # UrbanCars.  - A Car Rental Website
 
+_**Description**_<br>
+
 Built a fully responsive car rental website using HTML, CSS, and JavaScript, enhanced with engaging animations. This project is designed to provide users with an intuitive and dynamic platform to browse and rent cars. The website includes a responsive navbar for easy navigation, allowing users to access different sections seamlessly. The captivating home section grabs attention with a modern layout, while the trending cars section showcases popular car models.
 
 The rental cars section presents available options, providing users with details about each car's features and availability. Additionally, a team section highlights the staff members behind the rental service, adding a personal touch to the website. The reviews section offers valuable customer feedback, building trust and credibility for the rental service.
